@@ -20,7 +20,8 @@ p {
 }
 
 .logo {
-    width: 50%;
+    margin-bottom: 10px;
+    width: 72px;
     float: left;
 }
 
