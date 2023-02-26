@@ -15,8 +15,7 @@ h2 {
 
 p {
     font-family: 'Source Sans Pro', sans-serif;
-    margin-left: 120px;
-    text-align: left;
+    text-align: center;
 }
 
 .logo {
@@ -82,15 +81,29 @@ p {
     text-align: center;
 }
 
+#sobremi img {
+    width: 160px;
+}
+
 .line {
-    height: 6px;
-    background-color: #000;
-    width: 70px;
+    height: 1px;
+    background-color: #a1a1a1;
+    width: 65%;
     margin: 8px auto;
 }
 
 #git iframe {
-    width: 80%;
+    width: 60%;
+    padding: 50px;
+}
+
+#html iframe {
+    width: 60%;
+    padding: 50px;
+}
+
+#css iframe {
+    width: 60%;
     padding: 50px;
 }
 
@@ -104,4 +117,19 @@ p {
 
 .correo a {
     text-shadow: none;
+}
+
+#git p {
+    text-align: left;
+    margin-left: 20%;
+}
+
+#html p {
+    text-align: left;
+    margin-left: 20%;
+}
+
+#css p {
+    text-align: left;
+    margin-left: 20%;
 }
